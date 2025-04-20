@@ -13,10 +13,10 @@ const Navbar = () => {
       <div className="fixed w-full z-100 bg-white shadow-md">
         <div className="flex items-center justify-between p-3 ">
           {/* Logo */}
-          <div className="ml-5">
+          <div className='md:ml-5' >
             <a href="#root">
               {/* <img src='/assets/flowSyncBlack.png ' alt="FlowSync-logo" className="w-40 drop-shadow-[0_0_0.5px_yellow] brightness-110" /> */}
-              <h1 className='text-xl md:text-2xl font-semibold'>Flo<span className='text-amber-400'>W</span>Sync</h1>
+              <h1 className='text-xl  md:text-2xl font-semibold'>Flo<span className='text-amber-400'>W</span>Sync</h1>
             </a>
           </div>
 
@@ -28,7 +28,7 @@ const Navbar = () => {
               <a href="#testimonials" className="hover:text-purple-600">Testimonials</a>
               <a href="#contact" className="hover:text-purple-600">Contact</a>
             </div>
-            <button className="py-2 px-4 text-white rounded text-sm font-semibold cursor-pointer bg-purple-500 hover:bg-purple-700">
+            <button className="py-2 px-4 mr-8 text-white rounded text-sm font-semibold cursor-pointer bg-purple-500 hover:bg-purple-700">
               <a href="#pricing">Start Free Trial</a>
             </button>
           </div>
