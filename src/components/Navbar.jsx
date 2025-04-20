@@ -15,7 +15,8 @@ const Navbar = () => {
           {/* Logo */}
           <div className="ml-5">
             <a href="#root">
-              <img src='/assets/flowSyncBlack.png ' alt="FlowSync-logo" className="w-40 drop-shadow-[0_0_0.5px_yellow] brightness-110" />
+              {/* <img src='/assets/flowSyncBlack.png ' alt="FlowSync-logo" className="w-40 drop-shadow-[0_0_0.5px_yellow] brightness-110" /> */}
+              <h1 className='text-xl md:text-2xl font-semibold'>Flo<span className='text-amber-400'>W</span>Sync</h1>
             </a>
           </div>
 
