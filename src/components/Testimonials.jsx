@@ -1,4 +1,5 @@
-// src/components/Testimonials.js
+// src/components/Testimonials.js 
+// this is a React component that displays client testimonials in a grid layout. It shuffles the testimonials to show them in a random order each time the component is rendered.
 import React from "react";
 import testimonials from "./testimonialsData";
 
