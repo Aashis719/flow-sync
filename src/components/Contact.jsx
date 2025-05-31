@@ -21,10 +21,10 @@ const ContactWalla = () => {
 
     // Send email via EmailJS into the mail 
     emailjs.sendForm(
-      "service_glslmbq", // Replace with your EmailJS service ID
-      "template_30g8l7d", // Replace with your EmailJS template ID
+      "service_glslmbq", //  EmailJS service ID
+      "template_30g8l7d", //  EmailJS template ID
       e.target, // The form itself
-      "bXaGFjRFh8W1Wu6IX" // Replace with your EmailJS user ID
+      "bXaGFjRFh8W1Wu6IX" 
     )
     .then((result) => {
       console.log(result.text);
