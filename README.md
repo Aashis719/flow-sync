@@ -1,6 +1,6 @@
 # FlowSync - AI-Powered Automation
 
-FlowSync is an AI-powered automation platform built with React and Tailwind CSS, featuring a sleek, responsive UI.
+FlowSync is landing page for an AI-powered automation platform built with React and Tailwind CSS, featuring a sleek, responsive UI.
 
  # Features
 
