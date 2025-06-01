@@ -32,7 +32,8 @@ const ContactWalla = () => {
       // toast.error("Something went wrong, please try again.", { position: "top-right" });
 
 
-      // Clear input fields after submission
+      // Clear input fields after submission 
+      // This is optional, but it helps to reset the form
       setFormData({ name: "", email: "", message: "" });
     }, (error) => {
       console.log(error.text);
