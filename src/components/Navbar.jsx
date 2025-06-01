@@ -34,6 +34,8 @@ const Navbar = () => {
           </div>
 
           {/* Mobile Menu Button */}
+          {/* // This button is only visible on mobile devices*/}
+          
           <button className="md:hidden" onClick={toggleNavbar}>
             {isOpen ? <X /> : <Menu />}
           </button>
