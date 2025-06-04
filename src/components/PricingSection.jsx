@@ -31,7 +31,7 @@ const Pricing = () => {
           <FaRegCheckCircle className="text-green-400" /> Limited Support
         </li>
       </ul>
-      <button className="w-full py-3 bg-gradient-to-b from-purple-700 via-purple-600 to-purple-400 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
+      <button className="w-full py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
         Get Started
       </button>
     </div>
@@ -54,7 +54,7 @@ const Pricing = () => {
           <FaRegCheckCircle className="text-green-400" /> Priority Support
         </li>
       </ul>
-      <button className="w-full py-3 bg-gradient-to-b from-purple-700 via-purple-600 to-purple-400 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
+      <button className="w-full py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
         Get Started
       </button>
     </div>
@@ -74,7 +74,7 @@ const Pricing = () => {
           <FaRegCheckCircle className="text-green-400" /> Unlimited Automation
         </li>
       </ul>
-      <button className="w-full py-3 bg-gradient-to-b from-purple-700 via-purple-600 to-purple-400 text-white font-semibold rounded-xl hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
+      <button className="w-full py-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-semibold rounded-xl hover:from-purple-700 hover:to-indigo-700 transition-all duration-300 transform hover:scale-105 cursor-pointer">
         Get Started
       </button>
     </div>
