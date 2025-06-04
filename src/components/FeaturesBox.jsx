@@ -1,6 +1,6 @@
 import React from 'react'; 
 import { FaArrowRight } from "react-icons/fa";
-
+// Some changes in the import statement to include the FaArrowRight icon
 const FeaturesBox = ({ icon:Icon, title, description, link }) => {
   return (
     <div>
