@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Mail, Phone, MapPin, Send } from "lucide-react";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-// import contactwalla from '../assets/contact.png';
+
 import emailjs from 'emailjs-com';
 
 const ContactWalla = () => {
