@@ -118,7 +118,7 @@ const ContactWalla = () => {
         </div>
       </section>
 
-      <p className="text-center bg-gray-900 p-4 w-full text-white">© 2025 Aashish Neupane. All Rights Reserved.</p>
+      <p className="text-center bg-gray-900 p-4 w-full text-white">© 2025 <a href="https://www.aashishneupane.com.np/" target="_blank" className="hover:text-purple-500 transition-colors duration-200"><span >Aashish Neupane.</span></a> All Rights Reserved.</p>
 
       {/* Toast Notification */}
       <ToastContainer />
