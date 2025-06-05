@@ -4,7 +4,7 @@ import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 import emailjs from 'emailjs-com';
-
+// contact form component using EmailJS for sending emails
 const ContactWalla = () => {
   const [formData, setFormData] = useState({
     name: "",
