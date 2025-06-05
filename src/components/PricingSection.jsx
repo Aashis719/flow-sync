@@ -1,6 +1,6 @@
 import React from "react";
 import { FaRegCheckCircle } from "react-icons/fa";
-
+// this is a simple pricing section for a React application using Tailwind CSS.
 const Pricing = () => {
   return (
     <section className="  py-12 md:py-20  bg-gradient-to-t from-blue-200 via-blue-100 to-white " id="pricing">
