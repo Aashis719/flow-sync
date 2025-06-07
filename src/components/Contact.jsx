@@ -19,7 +19,7 @@ const ContactWalla = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Send email via EmailJS into the mail 
+  
     emailjs.sendForm(
       "service_glslmbq", //  EmailJS service ID
       "template_30g8l7d", //  EmailJS template ID
