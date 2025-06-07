@@ -21,8 +21,8 @@ const ContactWalla = () => {
 
   
     emailjs.sendForm(
-      "service_glslmbq", //  EmailJS service ID
-      "template_30g8l7d", //  EmailJS template ID
+      "service_glslmbq", 
+      "template_30g8l7d",
       e.target, // The form itself
       "bXaGFjRFh8W1Wu6IX" 
     )
