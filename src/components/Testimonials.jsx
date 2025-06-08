@@ -5,7 +5,7 @@ import testimonials from "./testimonialsData";
 const shuffleArray = (array) => {
   return array.sort(() => Math.random() - 0.5);
 };
-
+// testimonialsData.js
 const Testimonials = () => {
   const shuffledTestimonials = shuffleArray([...testimonials]);
 
