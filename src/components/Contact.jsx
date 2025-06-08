@@ -30,7 +30,7 @@ const ContactWalla = () => {
       console.log(result.text);
       toast.success("Message sent successfully!", { position: "top-right" });
       // toast.error("Something went wrong, please try again.", { position: "top-right" });
-
+      // Reset form fields after successful submission
 
  
       setFormData({ name: "", email: "", message: "" });
