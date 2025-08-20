@@ -4,7 +4,7 @@ FlowSync is landing page for an AI-powered automation platform built with React 
 
  # Features
 
-🚀 AI-driven workflow automation
+🚀 AI-driven workflow automation 
 
 🎨 Modern UI/UX
 
