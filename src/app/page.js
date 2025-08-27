@@ -10,7 +10,7 @@ import ContactWalla from '@/components/Contact'
 const page = () => {
   return (
     <div>
-       <Navbar/>
+       <Navbar/> 
     <Home/>
    <Features/>
    <Pricing/>
